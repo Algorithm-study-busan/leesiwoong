@@ -1,6 +1,3 @@
-import sys
-sys.stdin = open('input.txt','r')
-
 # 무조건 length안에서 좌표처리해야한다 생각했음
 # 상대적으로 위치만 옮겨지는거라 길이는 절대적임. r-l은 10-num이나 24-num`이나 같을거임
 

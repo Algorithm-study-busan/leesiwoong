@@ -1,7 +1,4 @@
 import sys
-
-sys.stdin = open("input.txt",'r')
-
 input = sys.stdin.readline
 
 n = int(input())
@@ -31,3 +28,4 @@ else:
         print(idx+1, score_arr[idx])
     else:
         print(0, score_arr[idx]) 
+
